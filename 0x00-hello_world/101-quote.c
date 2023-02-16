@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <unist.h>
+#include <unistd.h>
 /**
  *Description: main - funtions that outpust without puts and mother
   Return: 1 for success
