@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- *Description: main - funtion that outputs without puts and printf
-  Return: 1 (success)
+ *Description: main - C program that prints a line to the standard error
+  Return 1 (success)
   */
 int main(void)
 {
