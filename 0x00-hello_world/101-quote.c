@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- *Description: main - funtions that outpust without puts and mother
-  Return: 1 for success
+ *Description: main - funtion that outputs without puts and printf
+  Return: 1 (success)
   */
 int main(void)
 {
