@@ -15,7 +15,7 @@ if (c >= 65 && c <= 90)
 var = 1;
 return (var);
 }
-else if (c >= 97 && <= 122)
+else if (c >= 97 && c <= 122)
 {
 var = 1;
 return (var);
