@@ -15,6 +15,9 @@ void print_alphabet(void)
 {
 char ch;
 for (char = "a"; char <= "z"; ch++)
+{
 _putchar(ch);
+}
+_putchar('\n');
 }
 
