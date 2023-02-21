@@ -17,8 +17,5 @@ else if (n >= 0)
 {
 n = n;
 }
-else
-{
 return (n);
-}
 }
