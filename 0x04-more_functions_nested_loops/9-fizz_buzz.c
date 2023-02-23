@@ -21,17 +21,17 @@ printf("Buzz");
 }
 else if (i % 3 == 0 && i % 5 == 0)
 {
-prinf("FizzBuzz";
+printf("FizzBuzz");
 }
 else if (i == 1)
 {
-print("%d ", i);
+printf("%d ", i);
 }
 else
 {
 printf("%d ", i);
 }
 }
-printf('\n');
+printf("\n");
 return (0);
 }
