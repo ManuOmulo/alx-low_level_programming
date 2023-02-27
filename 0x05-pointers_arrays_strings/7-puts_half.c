@@ -6,6 +6,8 @@
  * Return: void
  */
 
+void puts_half(char *str)
+{
 int a, b, count;
 
 count = 0;
