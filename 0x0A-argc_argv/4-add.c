@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include <string.h>
+#include "main.h"
 
 /**
  * main - adds positive numbers
@@ -58,4 +59,4 @@ count++;
 }
 return (1);
 }
-
+}
