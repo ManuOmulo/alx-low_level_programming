@@ -31,7 +31,7 @@ break;
 
 case 'f':
 printf("%s%f", sep, va_arg(list, double));
-brek;
+break;
 
 case 's':
 
