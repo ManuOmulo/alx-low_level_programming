@@ -28,7 +28,7 @@ return (NULL);
 }
 
 newNode->str = strdup(str);
-newNode->length = length;
+newNode->len = length;
 newNode->next = NULL;
 
 if (*head == NULL)
