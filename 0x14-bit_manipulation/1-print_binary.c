@@ -27,7 +27,7 @@ _putchar('0');
 }
 }
 
-if (count == NULL)
+if (!count)
 {
 _putchar('0');
 }
