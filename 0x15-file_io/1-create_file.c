@@ -30,7 +30,7 @@ if (filed == -1 || wrt == -1)
 return (-1);
 }
 
-close(fd);
+close(filed);
 
 return (1);
 }
