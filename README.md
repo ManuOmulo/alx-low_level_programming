@@ -1,1 +1,1 @@
-This is for the assignment in Bit Manipulation in C
+This repo contains tasks for C Programming language
